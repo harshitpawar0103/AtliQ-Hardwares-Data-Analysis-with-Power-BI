@@ -1,5 +1,5 @@
 # AtliQ-Hardwares-Data-Analysis-with-Power-BI
- [Check Live Report](https://github.com/surveycto/display-iframe/raw/master/display-iframe.fieldplugin.zip)
+ [Check Live Report](https://app.powerbi.com/view?r=eyJrIjoiZGFlNzRmZGMtYmM3MC00MTlmLTgyN2UtZmI1NTg3NzQ3MDE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Project Overview
 Atliq Business Insights is a comprehensive dashboard project leveraging the dataset of an electronics hardware company (Atliq). The dashboard provides various views including Finance, Sales, Marketing, and Supply Chain, offering valuable insights for informed decision-making.
 
