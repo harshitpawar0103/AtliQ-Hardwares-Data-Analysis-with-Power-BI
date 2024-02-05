@@ -1,5 +1,5 @@
 # AtliQ-Hardwares-Data-Analysis-with-Power-BI
-
+ [Check Live Report](https://github.com/surveycto/display-iframe/raw/master/display-iframe.fieldplugin.zip)
 ## Project Overview
 Atliq Business Insights is a comprehensive dashboard project leveraging the dataset of an electronics hardware company (Atliq). The dashboard provides various views including Finance, Sales, Marketing, and Supply Chain, offering valuable insights for informed decision-making.
 
@@ -11,10 +11,36 @@ Data Modeling: In Power BI, data modeling was performed to create a structured a
 # Dashboard Structure
 ## Pages:
 ### Home: Centralized navigation hub for accessing other views.
+<br>
+<img align="left" src="https://github.com/harshitpawar0103/AtliQ-Hardwares-Data-Analysis-with-Power-BI/blob/ee987c84ba52c9983060591aff8e540aba6f281b/dashboards/1.Home.png" width="1000" height="575" />
+<br>
+<br><br>
+
 ### Finance: Compares sales and margins of different products on a year-on-year basis. Users can filter through regions, products, segments, and fiscal years for detailed insights.
+<br>
+<img align="left" src="https://github.com/harshitpawar0103/AtliQ-Hardwares-Data-Analysis-with-Power-BI/blob/ee987c84ba52c9983060591aff8e540aba6f281b/dashboards/2.Finance%20view.png" width="1000" height="575" />
+<br>
+<br><br>
+
 ### Sales: Compares net sales and margins for different customers and products. Provides insights into discounts, deductions, and COGS incurred on different customers.
+<br>
+<img align="left" src="https://github.com/harshitpawar0103/AtliQ-Hardwares-Data-Analysis-with-Power-BI/blob/ee987c84ba52c9983060591aff8e540aba6f281b/dashboards/3.Sales%20View.png" width="1000" height="575" />
+<br>
+<br><br>
+
 ### Marketing: Displays net sales, gross margin, and net margin for various products sold in different regions.
+<br>
+<img align="left" src="https://github.com/harshitpawar0103/AtliQ-Hardwares-Data-Analysis-with-Power-BI/blob/ee987c84ba52c9983060591aff8e540aba6f281b/dashboards/4.Marketing%20View.png" width="1000" height="575" />
+<br>
+<br><br>
+
 ### Supply Chain: Shows net error and forecast accuracy for products, aiding inventory management decisions.
+<div>
+<br>
+<img align="left" src="https://github.com/harshitpawar0103/AtliQ-Hardwares-Data-Analysis-with-Power-BI/blob/ee987c84ba52c9983060591aff8e540aba6f281b/dashboards/5.Supply%20Chain%20View.png" width="1000" height="575" />
+<br>
+<br><br></div>
+
 ## User Interface
 Navigation: Users can easily navigate between different views from the Home page.<br>
 Visibility: All other pages are hidden when the dashboard is published. End-users can see only the Home view and click on the required view.<br>
